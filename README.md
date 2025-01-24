@@ -422,11 +422,19 @@ Leider habe ich keine direkte Lösung für dieses Problem gefunden. Da ich jedoc
 ## Quellen
 
 *[1]*: https://kafka.apache.org/; 24.01.2025
+
 *[2]*: https://min.io/; 24.01.2025
+
 *[3]*: https://kind.sigs.k8s.io/; 24.01.2025
+
 *[4]*: https://www.openlogic.com/blog/using-kafka-zookeeper; 24.01.2025
+
 *[5]*: https://docs.otterize.com/features/kafka/tutorials/k8s-kafka-mtls-cert-manager; 24.01.2025
+
 *[6]*: https://helm.sh/docs/intro/install/?ref=blog.min.io; 24.01.2025
+
 *[7]*: https://helm.sh/docs/intro/install/?ref=blog.min.io; 24.01.2025
+
 *[8]*: https://kafka.apache.org/intro; 24.01.2025
+
 *[9]*: https://github.com/minio/operator.git; 24.01.2025
